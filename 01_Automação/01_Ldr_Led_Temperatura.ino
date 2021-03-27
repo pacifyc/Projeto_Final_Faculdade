@@ -63,14 +63,14 @@ int luminosidade;
 
 
 //________________________________________________________________________________________________________________
-const char* ssid = "Selmy_neonet";            // Nome da Rede
-const char* password = "58108c3ac162";          //Password da rede
+const char* ssid = "net";            // Nome da Rede
+const char* password = "9999999999";          //Password da rede
 const char* host = "projeto";
 
 
 //Definikção de Ip fixo para o NodeMCU
 
-  IPAddress ip(10,0,0,115);
+  IPAddress ip(100,0,0,100);
   IPAddress gateway(10,0,0,1);                //GATEWAY de conexão
   IPAddress subnet(255,255,255,0);
 
