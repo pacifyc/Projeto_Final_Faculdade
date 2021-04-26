@@ -49,11 +49,9 @@
 
 /*________________________________________________________________________________________________________________*/
 
-const char* ssid = "Selmy_neonet";            // Nome da Rede
-const char* password = "58108c3ac162";          //Password da rede
-
+const char* ssid = "net";            // Nome da Rede
+const char* password = "9999999999";          //Password da rede
 const char* host = "projeto";
-
 /*________________________________________________________________________________________________________________*/
 
 
